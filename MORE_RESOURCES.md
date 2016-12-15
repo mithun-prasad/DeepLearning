@@ -19,3 +19,14 @@ Popular Andrew Ng course on machine learning, hosted by Coursera and Stanford:
 * [Deep Learning of Representations] (https://www.youtube.com/watch?v=4xsVFLnHC_0)  by Yoshua bengio
 * [Principles of Hierarchical Temporal Memory] (https://www.youtube.com/watch?v=6ufPpZDmPKA) by Jeff Hawkins
 * [Machine Learning Discussion Group – Deep Learning w/ Stanford AI Lab]  (https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates
+
+
+## Deep Learning Books
+* [Deep Learning] by Yoshua Bengio, Ian Goodfellow and Aaron Courville (05/07/2015)
+* [Neural Networks and Deep Learning] (http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (Dec 2014)
+* [Deep Learning] (https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/) by Microsoft Research (2013)
+* [Deep Learning Tutorial] (http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
+* [neuraltalk] (https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
+* [An introduction to genetic algorithms] (https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
+* [Artificial Intelligence: A Modern Approach] (http://aima.cs.berkeley.edu/)
+* [Deep Learning in Neural Networks: An Overview] (https://arxiv.org/pdf/1404.7828v4.pdf)
