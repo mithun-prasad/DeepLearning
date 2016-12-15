@@ -1,6 +1,6 @@
 ## Resources on Deep Learning
 
-## Deep Learning Online Courses
+### Deep Learning Online Courses
 
 Popular Andrew Ng course on machine learning, hosted by Coursera and Stanford:
 
@@ -11,7 +11,7 @@ Popular Andrew Ng course on machine learning, hosted by Coursera and Stanford:
 * [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) by Hugo Larochelle from Université de Sherbrooke (2013)
 
 
-## Deep Learning For Dummies
+### Deep Learning For Dummies
 * [How To Create A Mind] (https://www.youtube.com/watch?v=RIkxVci-R4k) by Ray Kurzweil
 * [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning] (https://www.youtube.com/watch?v=n1ViNeWhC24) by Andrew Ng
 * [Recent Developments in Deep Learning] (https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Geoff Hinton
@@ -21,7 +21,7 @@ Popular Andrew Ng course on machine learning, hosted by Coursera and Stanford:
 * [Machine Learning Discussion Group – Deep Learning w/ Stanford AI Lab]  (https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates
 
 
-## Deep Learning Books
+### Deep Learning Books
 * [Deep Learning] by Yoshua Bengio, Ian Goodfellow and Aaron Courville (05/07/2015)
 * [Neural Networks and Deep Learning] (http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (Dec 2014)
 * [Deep Learning] (https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/) by Microsoft Research (2013)
