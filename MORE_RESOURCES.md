@@ -12,4 +12,10 @@ Popular Andrew Ng course on machine learning, hosted by Coursera and Stanford:
 
 
 ## Deep Learning For Dummies
-
+* [How To Create A Mind] (https://www.youtube.com/watch?v=RIkxVci-R4k) by Ray Kurzweil
+* [Deep Learning, Self-Taught Learning and Unsupervised Feature Learning] (https://www.youtube.com/watch?v=n1ViNeWhC24) by Andrew Ng
+* [Recent Developments in Deep Learning] (https://www.youtube.com/watch?v=vShMxxqtDDs&amp;index=3&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Geoff Hinton
+* [The Unreasonable Effectiveness of Deep Learning] (https://www.youtube.com/watch?v=sc-KbuZqGkI) by Yann LeCun
+* [Deep Learning of Representations] (https://www.youtube.com/watch?v=4xsVFLnHC_0)  by Yoshua bengio
+* [Principles of Hierarchical Temporal Memory] (https://www.youtube.com/watch?v=6ufPpZDmPKA) by Jeff Hawkins
+* [Machine Learning Discussion Group – Deep Learning w/ Stanford AI Lab]  (https://www.youtube.com/watch?v=2QJi0ArLq7s&amp;list=PL78U8qQHXgrhP9aZraxTT5-X1RccTcUYT) by Adam Coates
