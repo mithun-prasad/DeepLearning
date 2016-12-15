@@ -22,7 +22,7 @@ Popular Andrew Ng course on machine learning, hosted by Coursera and Stanford:
 
 
 ## Deep Learning Books
-* Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville (05/07/2015)
+* Deep Learning by Yoshua Bengio, Ian Goodfellow and Aaron Courville (Jul 2015)
 * [Neural Networks and Deep Learning] (http://neuralnetworksanddeeplearning.com/) by Michael Nielsen (Dec 2014)
 * [Deep Learning] (https://www.microsoft.com/en-us/research/publication/deep-learning-methods-and-applications/) by Microsoft Research (2013)
 * [Deep Learning Tutorial] (http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
