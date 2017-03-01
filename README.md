@@ -8,6 +8,18 @@ Training resources around Deep Learning with CNTK
 
 We recommend cloning this repository onto your local computer with a git-based program (like GitHub desktop for Windows) or you may download the site contents as a zip file by going to "Clone or Download" at the upper right of this repository.
 
+## Deep Learning Topics Covered
+
+* Introduction to Deep Learning and its applications
+* Basic Concepts: Training a Neural Network from scratch
+* Convolutions & CNN models
+* Applications to Vision and NLP
+* Word Embeddings
+* Benchmark Architectures
+* Transfer Learning
+* Introduction to CNTK
+
+
 **For Instructor-Led:**
 * We recommend dowloading the site contents or cloning it if you can do so to your local computer.
 * Follow along with the classroom instructions and training sessions.
