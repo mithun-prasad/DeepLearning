@@ -181,14 +181,3 @@ Torch7 and nn libraries are also well-designed with clean, modular interfaces.
 
 ## Cross-platform
 Caffe, CNTK, TensorFlow and Theano work on all OSes. Torch does not work on Windows and there's no known plan to port from either camp.
-
-<br>
-___ 
-
-**Footnotes**
-
-[1] Note that I don’t aggregate ratings because different users/developers have different priorities.
-
-[2] Disclaimer: I haven’t analyzed this extension carefully.
-
-[3] See my [blog post](http://www.kentran.net/2014/12/challenges-in-machine-learning-practice.html) for why this is desirable.
