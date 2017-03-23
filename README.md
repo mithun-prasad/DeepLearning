@@ -2,7 +2,7 @@
 
 Training resources around Deep Learning with CNTK
 
-https://www.surveymonkey.com/r/8CJTSJ9
+https://www.surveymonkey.com/r/V8WYGZ8
 
 ## How to Use this Site
 
