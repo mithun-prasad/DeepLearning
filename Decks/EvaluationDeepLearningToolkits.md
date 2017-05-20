@@ -1,6 +1,10 @@
 # Evaluation of Deep Learning Toolkits
 
-##  Symbolic Frameworks
+There are a lot of deep learning libraries, each comes with its own flavour. This article compares the well-known Deep Learning toolkits along with the fundamental programming models.
+
+##  Symbolic vs Imperative Programs
+
+###  Symbolic Frameworks
 
 Symbolic frameworks (such as CNTK, MXNET, TensorFlow, Theano) allow functions to be defined abstractly through computation graphs. In the symbolic style, we first express complex functions in terms of placeholder values. Then, we can execute these functions by binding them to real values. Symbolic computation is useful for several reasons:
 
