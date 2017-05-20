@@ -16,6 +16,8 @@ Symbolic frameworks (such as CNTK, MXNET, TensorFlow, Theano) allow functions to
 
 If you are a python/c++ programmer, you are already familiar with imperative programs. Imperative style programs (Torch, Caffe, etc.) conduct the computation as we run them. Imperative programs are usually more flexible than symbolic programs. Because imperative programs are actually more native than the symbolic ones, it is easier to use native language features and inject them into computation flow. 
 
+The below tables describe and compare the commonly used open-source deep learning frameworks:
+
 | Software | Creator | Platform | Software license | Open source | Interface | CUDA support | 
 |:----------|:-------|:---------|:-----------------|:------------|:----------|:------------|
 | CNTK | Microsoft Research | Linux, Windows | MIT | Yes | Python, C++, C# and CLI | Yes |
