@@ -9,7 +9,7 @@ There are a lot of deep learning libraries, each comes with its own flavour. Thi
 Symbolic frameworks (such as CNTK, MXNET, TensorFlow, Theano) allow functions to be defined abstractly through computation graphs. In the symbolic style, we first express complex functions in terms of placeholder values. Then, we can execute these functions by binding them to real values. A large portion of deep learning libraries chose to be symbolic instead due to its efficiency, both in terms of memory and runtime. Symbolic computation is useful for several reasons:
 
 1. Because we define a full computation graph before executing it, sophisticated optimizations can be performed to eliminate unnecessary or repeated work. This tends to give better performance than imperative programming. 
-2. As therelationships between different variables are stored in the computation graph, we can then perform efficient auto-differentiation.
+2. As the relationships between different variables are stored in the computation graph, we can then perform efficient auto-differentiation.
 
 
 ###  Imperative Programs
