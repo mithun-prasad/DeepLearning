@@ -17,6 +17,7 @@
 * [DeepPy](https://github.com/andersbll/deeppy) is a Pythonic deep learning framework built on top of NumPy.
 * [DeepLearning](https://github.com/vishwa-raman/DeepLearning) is deep learning library, developed with C++ and python.
 * [Neon](https://github.com/NervanaSystems/neon) is Nervana's Python based Deep Learning framework.
+* [CNTK](https://github.com/Microsoft/CNTK) is Microsoft's Python based Deep Learning framework. It is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
 
 #### Matlab
 
